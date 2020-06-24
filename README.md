@@ -1,2 +1,2 @@
-# riyo.site
-https://riyo.site
+# riou.jp
+https://riou.jp
